@@ -15,6 +15,8 @@ Work in progress.
 
 - Project Euler: https://github.com/jonasberge/euler
 - Codewars: https://github.com/jonasberge/codewars-solutions
+- Advent of Code 2023: **Coming soon**
 - Advent of Code 2020: https://github.com/jonasberge/adventofcode
 - Advent of Code 2020 (continuation): https://github.com/jonasberge/adventofcode-2020
 - Advent of Code 2019: https://github.com/jonasberge/adventofcode-2019
+- Other: https://github.com/jonasberge/challenges
